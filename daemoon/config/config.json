@@ -1,0 +1,9 @@
+{
+    "source_dir": "/path/to/source",
+    "backup_dir": "/path/to/backups",
+    "interval_seconds": 3600,
+    "log_file": "/var/log/backup_daemon.log",
+    "max_backups": 30,
+    "backup_prefix": "backup",
+    "exclude_patterns": [".tmp", ".log", ".cache"]
+}

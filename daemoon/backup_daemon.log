@@ -1,0 +1,47 @@
+2025-09-22 16:55:06 - INFO - Starting backup daemon...
+2025-09-22 16:55:06 - INFO - Backup successful: ./backup/backup_20250922165506
+2025-09-22 16:55:06 - INFO - Removed old backup: ./backup/backup_20250922163847
+2025-09-22 16:55:07 - INFO - Removed old backup: ./backup/backup_20250922165506
+2025-09-22 16:55:16 - INFO - Received signal 2, stopping daemon...
+2025-09-22 16:55:17 - INFO - Daemon stopped.
+2025-09-22 16:55:42 - INFO - Starting backup daemon...
+2025-09-22 16:55:42 - INFO - Backup successful: ./backup/backup_20250922165542
+2025-09-22 16:56:42 - INFO - Backup successful: ./backup/backup_20250922165642
+2025-09-22 16:57:42 - INFO - Backup successful: ./backup/backup_20250922165742
+2025-09-22 16:58:42 - INFO - Backup successful: ./backup/backup_20250922165842
+2025-09-22 16:59:08 - INFO - Received signal 2, stopping daemon...
+2025-09-22 16:59:08 - INFO - Daemon stopped.
+2025-09-22 16:59:21 - INFO - Starting backup daemon...
+2025-09-22 16:59:21 - INFO - Backup successful: ./backup/backup_20250922165921
+2025-09-22 17:00:21 - INFO - Backup successful: ./backup/backup_20250922170021
+2025-09-22 17:00:21 - INFO - Removed old backup: ./backup/backup_20250922165642
+2025-09-22 17:01:22 - INFO - Backup successful: ./backup/backup_20250922170122
+2025-09-22 17:01:22 - INFO - Removed old backup: ./backup/backup_20250922165542
+2025-09-22 17:01:35 - INFO - Received signal 15, stopping daemon...
+2025-09-22 17:01:36 - INFO - Daemon stopped.
+2025-09-22 17:19:48 - INFO - Starting backup daemon...
+2025-09-22 17:19:48 - INFO - Backup successful: ./backup/backup_20250922171948
+2025-09-22 17:19:48 - INFO - Removed old backup: ./backup/backup_20250922165742
+2025-09-22 17:19:53 - INFO - Received signal 2, stopping daemon...
+2025-09-22 17:21:32 - INFO - Starting backup daemon...
+2025-09-22 17:21:32 - INFO - Backup successful: ./backup/backup_20250922172132
+2025-09-22 17:21:32 - INFO - Removed old backup: ./backup/backup_20250922172132
+2025-09-22 17:22:32 - INFO - Backup successful: ./backup/backup_20250922172232
+2025-09-22 17:22:32 - INFO - Removed old backup: ./backup/backup_20250922172232
+2025-09-22 17:23:32 - INFO - Backup successful: ./backup/backup_20250922172332
+2025-09-22 17:23:32 - INFO - Removed old backup: ./backup/backup_20250922172332
+2025-09-22 17:24:33 - INFO - Backup successful: ./backup/backup_20250922172433
+2025-09-22 17:24:33 - INFO - Removed old backup: ./backup/backup_20250922172433
+2025-09-22 17:25:33 - INFO - Backup successful: ./backup/backup_20250922172533
+2025-09-22 17:25:33 - INFO - Removed old backup: ./backup/backup_20250922172533
+2025-09-22 17:26:33 - INFO - Backup successful: ./backup/backup_20250922172633
+2025-09-22 17:26:33 - INFO - Removed old backup: ./backup/backup_20250922172633
+2025-09-22 17:27:29 - INFO - Received signal 15, stopping daemon...
+2025-09-22 18:46:07 - INFO - Starting backup daemon...
+2025-09-22 18:46:07 - INFO - Backup successful: ./backup/backup_20250922184607
+2025-09-22 18:46:07 - INFO - Removed old backup: ./backup/backup_20250922184607
+2025-09-22 18:46:12 - INFO - Received signal 2, stopping daemon...
+2025-09-22 18:46:43 - INFO - Starting backup daemon...
+2025-09-22 18:46:43 - INFO - Backup successful: ./backup/backup_20250922184643
+2025-09-22 18:46:43 - INFO - Removed old backup: ./backup/backup_20250922184643
+2025-09-22 18:46:54 - INFO - Received signal 15, stopping daemon...
